@@ -19,6 +19,6 @@ driver.find_element(By.CSS_SELECTOR,"#name_focus").send_keys("Dummy Users")
 driver.find_element(By.CSS_SELECTOR,"#emailInput").send_keys("Dummyuser@yopmial.com")
 driver.find_element(By.CSS_SELECTOR,"input[name='mobile']").send_keys("9876787678")
 driver.find_element(By.CSS_SELECTOR,".css-lagbch").click()
-# dropdown = select(studying_dropdown)
+driver.find_element(By.CSS_SELECTOR,".leomoerb").click()
 # dropdown.select
 time.sleep(10)
